@@ -1,0 +1,324 @@
+C:\Users\steve\Desktop\Ramen\Ramen\Ramen\bin\Ramen.dll.config
+C:\Users\steve\Desktop\Ramen\Ramen\Ramen\bin\Ramen.dll
+C:\Users\steve\Desktop\Ramen\Ramen\Ramen\bin\Ramen.pdb
+C:\Users\steve\Desktop\Ramen\Ramen\Ramen\bin\roslyn\csc.exe
+C:\Users\steve\Desktop\Ramen\Ramen\Ramen\bin\roslyn\csc.exe.config
+C:\Users\steve\Desktop\Ramen\Ramen\Ramen\bin\roslyn\csc.rsp
+C:\Users\steve\Desktop\Ramen\Ramen\Ramen\bin\roslyn\csi.exe
+C:\Users\steve\Desktop\Ramen\Ramen\Ramen\bin\roslyn\csi.exe.config
+C:\Users\steve\Desktop\Ramen\Ramen\Ramen\bin\roslyn\csi.rsp
+C:\Users\steve\Desktop\Ramen\Ramen\Ramen\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\steve\Desktop\Ramen\Ramen\Ramen\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\steve\Desktop\Ramen\Ramen\Ramen\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\steve\Desktop\Ramen\Ramen\Ramen\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\steve\Desktop\Ramen\Ramen\Ramen\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\steve\Desktop\Ramen\Ramen\Ramen\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\steve\Desktop\Ramen\Ramen\Ramen\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\steve\Desktop\Ramen\Ramen\Ramen\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\steve\Desktop\Ramen\Ramen\Ramen\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\steve\Desktop\Ramen\Ramen\Ramen\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\steve\Desktop\Ramen\Ramen\Ramen\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\steve\Desktop\Ramen\Ramen\Ramen\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\steve\Desktop\Ramen\Ramen\Ramen\bin\roslyn\System.AppContext.dll
+C:\Users\steve\Desktop\Ramen\Ramen\Ramen\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\steve\Desktop\Ramen\Ramen\Ramen\bin\roslyn\System.Console.dll
+C:\Users\steve\Desktop\Ramen\Ramen\Ramen\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\steve\Desktop\Ramen\Ramen\Ramen\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\steve\Desktop\Ramen\Ramen\Ramen\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\steve\Desktop\Ramen\Ramen\Ramen\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\steve\Desktop\Ramen\Ramen\Ramen\bin\roslyn\System.IO.Compression.dll
+C:\Users\steve\Desktop\Ramen\Ramen\Ramen\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\steve\Desktop\Ramen\Ramen\Ramen\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\steve\Desktop\Ramen\Ramen\Ramen\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\steve\Desktop\Ramen\Ramen\Ramen\bin\roslyn\System.Net.Http.dll
+C:\Users\steve\Desktop\Ramen\Ramen\Ramen\bin\roslyn\System.Net.Sockets.dll
+C:\Users\steve\Desktop\Ramen\Ramen\Ramen\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\steve\Desktop\Ramen\Ramen\Ramen\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\steve\Desktop\Ramen\Ramen\Ramen\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\steve\Desktop\Ramen\Ramen\Ramen\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\steve\Desktop\Ramen\Ramen\Ramen\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\steve\Desktop\Ramen\Ramen\Ramen\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\steve\Desktop\Ramen\Ramen\Ramen\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\steve\Desktop\Ramen\Ramen\Ramen\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\steve\Desktop\Ramen\Ramen\Ramen\bin\roslyn\System.ValueTuple.dll
+C:\Users\steve\Desktop\Ramen\Ramen\Ramen\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\steve\Desktop\Ramen\Ramen\Ramen\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\steve\Desktop\Ramen\Ramen\Ramen\bin\roslyn\System.Xml.XPath.dll
+C:\Users\steve\Desktop\Ramen\Ramen\Ramen\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\steve\Desktop\Ramen\Ramen\Ramen\bin\roslyn\vbc.exe
+C:\Users\steve\Desktop\Ramen\Ramen\Ramen\bin\roslyn\vbc.exe.config
+C:\Users\steve\Desktop\Ramen\Ramen\Ramen\bin\roslyn\vbc.rsp
+C:\Users\steve\Desktop\Ramen\Ramen\Ramen\bin\roslyn\VBCSCompiler.exe
+C:\Users\steve\Desktop\Ramen\Ramen\Ramen\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\steve\Desktop\Ramen\Ramen\Ramen\bin\EntityFramework.dll
+C:\Users\steve\Desktop\Ramen\Ramen\Ramen\bin\EntityFramework.SqlServer.dll
+C:\Users\steve\Desktop\Ramen\Ramen\Ramen\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\steve\Desktop\Ramen\Ramen\Ramen\bin\EntityFramework.xml
+C:\Users\steve\Desktop\Ramen\Ramen\Ramen\bin\EntityFramework.SqlServer.xml
+C:\Users\steve\Desktop\Ramen\Ramen\Ramen\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\steve\Desktop\Ramen\Ramen\Ramen\obj\Debug\Ramen.csproj.AssemblyReference.cache
+C:\Users\steve\Desktop\Ramen\Ramen\Ramen\obj\Debug\Ramen.csproj.CoreCompileInputs.cache
+C:\Users\steve\Desktop\Ramen\Ramen\Ramen\obj\Debug\Ramen.csproj.CopyComplete
+C:\Users\steve\Desktop\Ramen\Ramen\Ramen\obj\Debug\Ramen.dll
+C:\Users\steve\Desktop\Ramen\Ramen\Ramen\obj\Debug\Ramen.pdb
+C:\Users\steve\Documents\Binus\Ramen\Ramen\bin\Ramen.dll.config
+C:\Users\steve\Documents\Binus\Ramen\Ramen\bin\Ramen.dll
+C:\Users\steve\Documents\Binus\Ramen\Ramen\bin\Ramen.pdb
+C:\Users\steve\Documents\Binus\Ramen\Ramen\bin\roslyn\csc.exe
+C:\Users\steve\Documents\Binus\Ramen\Ramen\bin\roslyn\csc.exe.config
+C:\Users\steve\Documents\Binus\Ramen\Ramen\bin\roslyn\csc.rsp
+C:\Users\steve\Documents\Binus\Ramen\Ramen\bin\roslyn\csi.exe
+C:\Users\steve\Documents\Binus\Ramen\Ramen\bin\roslyn\csi.exe.config
+C:\Users\steve\Documents\Binus\Ramen\Ramen\bin\roslyn\csi.rsp
+C:\Users\steve\Documents\Binus\Ramen\Ramen\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\steve\Documents\Binus\Ramen\Ramen\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\steve\Documents\Binus\Ramen\Ramen\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\steve\Documents\Binus\Ramen\Ramen\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\steve\Documents\Binus\Ramen\Ramen\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\steve\Documents\Binus\Ramen\Ramen\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\steve\Documents\Binus\Ramen\Ramen\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\steve\Documents\Binus\Ramen\Ramen\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\steve\Documents\Binus\Ramen\Ramen\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\steve\Documents\Binus\Ramen\Ramen\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\steve\Documents\Binus\Ramen\Ramen\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\steve\Documents\Binus\Ramen\Ramen\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\steve\Documents\Binus\Ramen\Ramen\bin\roslyn\System.AppContext.dll
+C:\Users\steve\Documents\Binus\Ramen\Ramen\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\steve\Documents\Binus\Ramen\Ramen\bin\roslyn\System.Console.dll
+C:\Users\steve\Documents\Binus\Ramen\Ramen\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\steve\Documents\Binus\Ramen\Ramen\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\steve\Documents\Binus\Ramen\Ramen\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\steve\Documents\Binus\Ramen\Ramen\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\steve\Documents\Binus\Ramen\Ramen\bin\roslyn\System.IO.Compression.dll
+C:\Users\steve\Documents\Binus\Ramen\Ramen\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\steve\Documents\Binus\Ramen\Ramen\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\steve\Documents\Binus\Ramen\Ramen\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\steve\Documents\Binus\Ramen\Ramen\bin\roslyn\System.Net.Http.dll
+C:\Users\steve\Documents\Binus\Ramen\Ramen\bin\roslyn\System.Net.Sockets.dll
+C:\Users\steve\Documents\Binus\Ramen\Ramen\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\steve\Documents\Binus\Ramen\Ramen\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\steve\Documents\Binus\Ramen\Ramen\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\steve\Documents\Binus\Ramen\Ramen\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\steve\Documents\Binus\Ramen\Ramen\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\steve\Documents\Binus\Ramen\Ramen\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\steve\Documents\Binus\Ramen\Ramen\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\steve\Documents\Binus\Ramen\Ramen\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\steve\Documents\Binus\Ramen\Ramen\bin\roslyn\System.ValueTuple.dll
+C:\Users\steve\Documents\Binus\Ramen\Ramen\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\steve\Documents\Binus\Ramen\Ramen\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\steve\Documents\Binus\Ramen\Ramen\bin\roslyn\System.Xml.XPath.dll
+C:\Users\steve\Documents\Binus\Ramen\Ramen\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\steve\Documents\Binus\Ramen\Ramen\bin\roslyn\vbc.exe
+C:\Users\steve\Documents\Binus\Ramen\Ramen\bin\roslyn\vbc.exe.config
+C:\Users\steve\Documents\Binus\Ramen\Ramen\bin\roslyn\vbc.rsp
+C:\Users\steve\Documents\Binus\Ramen\Ramen\bin\roslyn\VBCSCompiler.exe
+C:\Users\steve\Documents\Binus\Ramen\Ramen\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\steve\Documents\Binus\Ramen\Ramen\bin\EntityFramework.dll
+C:\Users\steve\Documents\Binus\Ramen\Ramen\bin\EntityFramework.SqlServer.dll
+C:\Users\steve\Documents\Binus\Ramen\Ramen\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\steve\Documents\Binus\Ramen\Ramen\bin\EntityFramework.xml
+C:\Users\steve\Documents\Binus\Ramen\Ramen\bin\EntityFramework.SqlServer.xml
+C:\Users\steve\Documents\Binus\Ramen\Ramen\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\steve\Documents\Binus\Ramen\Ramen\obj\Debug\Ramen.csproj.AssemblyReference.cache
+C:\Users\steve\Documents\Binus\Ramen\Ramen\obj\Debug\Ramen.csproj.CoreCompileInputs.cache
+C:\Users\steve\Documents\Binus\Ramen\Ramen\obj\Debug\Ramen.csproj.CopyComplete
+C:\Users\steve\Documents\Binus\Ramen\Ramen\obj\Debug\Ramen.dll
+C:\Users\steve\Documents\Binus\Ramen\Ramen\obj\Debug\Ramen.pdb
+C:\Users\steve\Documents\Binus\Ramen\Ramen\bin\Newtonsoft.Json.dll
+C:\Users\steve\Documents\Binus\Ramen\Ramen\bin\Newtonsoft.Json.xml
+C:\Users\steve\Documents\Binus\Ramen\Ramen\bin\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\steve\Documents\Binus\Ramen\Ramen\bin\CrystalDecisions.ReportSource.dll
+C:\Users\steve\Documents\Binus\Ramen\Ramen\bin\CrystalDecisions.Shared.dll
+C:\Users\steve\Documents\Binus\Ramen\Ramen\bin\CrystalDecisions.Web.dll
+C:\Users\steve\Documents\Binus\Ramen\Ramen\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\steve\Documents\Binus\Ramen\Ramen\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\steve\Documents\Binus\Ramen\Ramen\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\steve\Documents\Binus\Ramen\Ramen\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\steve\Documents\Binus\Ramen\Ramen\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\steve\Documents\Binus\Ramen\Ramen\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\steve\Documents\Binus\Ramen\Ramen\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\steve\Documents\Binus\Ramen\Ramen\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\steve\Documents\Binus\Ramen\Ramen\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\steve\Documents\Binus\Ramen\Ramen\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\steve\Documents\Binus\Ramen\Ramen\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\steve\Documents\Binus\Ramen\Ramen\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\steve\Documents\Binus\Ramen\Ramen\bin\stdole.dll
+C:\Users\steve\Desktop\Ramen\Ramen\Ramen\bin\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\steve\Desktop\Ramen\Ramen\Ramen\bin\CrystalDecisions.ReportSource.dll
+C:\Users\steve\Desktop\Ramen\Ramen\Ramen\bin\CrystalDecisions.Shared.dll
+C:\Users\steve\Desktop\Ramen\Ramen\Ramen\bin\CrystalDecisions.Web.dll
+C:\Users\steve\Desktop\Ramen\Ramen\Ramen\bin\Newtonsoft.Json.dll
+C:\Users\steve\Desktop\Ramen\Ramen\Ramen\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\steve\Desktop\Ramen\Ramen\Ramen\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\steve\Desktop\Ramen\Ramen\Ramen\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\steve\Desktop\Ramen\Ramen\Ramen\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\steve\Desktop\Ramen\Ramen\Ramen\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\steve\Desktop\Ramen\Ramen\Ramen\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\steve\Desktop\Ramen\Ramen\Ramen\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\steve\Desktop\Ramen\Ramen\Ramen\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\steve\Desktop\Ramen\Ramen\Ramen\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\steve\Desktop\Ramen\Ramen\Ramen\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\steve\Desktop\Ramen\Ramen\Ramen\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\steve\Desktop\Ramen\Ramen\Ramen\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\steve\Desktop\Ramen\Ramen\Ramen\bin\stdole.dll
+C:\Users\steve\Desktop\Ramen\Ramen\Ramen\bin\Newtonsoft.Json.xml
+C:\Users\steve\Documents\Binus\Semester4\Pattern Software Design\Lab\Ramen\Ramen\bin\Ramen.dll.config
+C:\Users\steve\Documents\Binus\Semester4\Pattern Software Design\Lab\Ramen\Ramen\bin\Ramen.dll
+C:\Users\steve\Documents\Binus\Semester4\Pattern Software Design\Lab\Ramen\Ramen\bin\Ramen.pdb
+C:\Users\steve\Documents\Binus\Semester4\Pattern Software Design\Lab\Ramen\Ramen\bin\roslyn\csc.exe
+C:\Users\steve\Documents\Binus\Semester4\Pattern Software Design\Lab\Ramen\Ramen\bin\roslyn\csc.exe.config
+C:\Users\steve\Documents\Binus\Semester4\Pattern Software Design\Lab\Ramen\Ramen\bin\roslyn\csc.rsp
+C:\Users\steve\Documents\Binus\Semester4\Pattern Software Design\Lab\Ramen\Ramen\bin\roslyn\csi.exe
+C:\Users\steve\Documents\Binus\Semester4\Pattern Software Design\Lab\Ramen\Ramen\bin\roslyn\csi.exe.config
+C:\Users\steve\Documents\Binus\Semester4\Pattern Software Design\Lab\Ramen\Ramen\bin\roslyn\csi.rsp
+C:\Users\steve\Documents\Binus\Semester4\Pattern Software Design\Lab\Ramen\Ramen\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\steve\Documents\Binus\Semester4\Pattern Software Design\Lab\Ramen\Ramen\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\steve\Documents\Binus\Semester4\Pattern Software Design\Lab\Ramen\Ramen\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\steve\Documents\Binus\Semester4\Pattern Software Design\Lab\Ramen\Ramen\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\steve\Documents\Binus\Semester4\Pattern Software Design\Lab\Ramen\Ramen\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\steve\Documents\Binus\Semester4\Pattern Software Design\Lab\Ramen\Ramen\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\steve\Documents\Binus\Semester4\Pattern Software Design\Lab\Ramen\Ramen\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\steve\Documents\Binus\Semester4\Pattern Software Design\Lab\Ramen\Ramen\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\steve\Documents\Binus\Semester4\Pattern Software Design\Lab\Ramen\Ramen\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\steve\Documents\Binus\Semester4\Pattern Software Design\Lab\Ramen\Ramen\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\steve\Documents\Binus\Semester4\Pattern Software Design\Lab\Ramen\Ramen\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\steve\Documents\Binus\Semester4\Pattern Software Design\Lab\Ramen\Ramen\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\steve\Documents\Binus\Semester4\Pattern Software Design\Lab\Ramen\Ramen\bin\roslyn\System.AppContext.dll
+C:\Users\steve\Documents\Binus\Semester4\Pattern Software Design\Lab\Ramen\Ramen\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\steve\Documents\Binus\Semester4\Pattern Software Design\Lab\Ramen\Ramen\bin\roslyn\System.Console.dll
+C:\Users\steve\Documents\Binus\Semester4\Pattern Software Design\Lab\Ramen\Ramen\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\steve\Documents\Binus\Semester4\Pattern Software Design\Lab\Ramen\Ramen\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\steve\Documents\Binus\Semester4\Pattern Software Design\Lab\Ramen\Ramen\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\steve\Documents\Binus\Semester4\Pattern Software Design\Lab\Ramen\Ramen\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\steve\Documents\Binus\Semester4\Pattern Software Design\Lab\Ramen\Ramen\bin\roslyn\System.IO.Compression.dll
+C:\Users\steve\Documents\Binus\Semester4\Pattern Software Design\Lab\Ramen\Ramen\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\steve\Documents\Binus\Semester4\Pattern Software Design\Lab\Ramen\Ramen\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\steve\Documents\Binus\Semester4\Pattern Software Design\Lab\Ramen\Ramen\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\steve\Documents\Binus\Semester4\Pattern Software Design\Lab\Ramen\Ramen\bin\roslyn\System.Net.Http.dll
+C:\Users\steve\Documents\Binus\Semester4\Pattern Software Design\Lab\Ramen\Ramen\bin\roslyn\System.Net.Sockets.dll
+C:\Users\steve\Documents\Binus\Semester4\Pattern Software Design\Lab\Ramen\Ramen\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\steve\Documents\Binus\Semester4\Pattern Software Design\Lab\Ramen\Ramen\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\steve\Documents\Binus\Semester4\Pattern Software Design\Lab\Ramen\Ramen\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\steve\Documents\Binus\Semester4\Pattern Software Design\Lab\Ramen\Ramen\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\steve\Documents\Binus\Semester4\Pattern Software Design\Lab\Ramen\Ramen\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\steve\Documents\Binus\Semester4\Pattern Software Design\Lab\Ramen\Ramen\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\steve\Documents\Binus\Semester4\Pattern Software Design\Lab\Ramen\Ramen\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\steve\Documents\Binus\Semester4\Pattern Software Design\Lab\Ramen\Ramen\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\steve\Documents\Binus\Semester4\Pattern Software Design\Lab\Ramen\Ramen\bin\roslyn\System.ValueTuple.dll
+C:\Users\steve\Documents\Binus\Semester4\Pattern Software Design\Lab\Ramen\Ramen\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\steve\Documents\Binus\Semester4\Pattern Software Design\Lab\Ramen\Ramen\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\steve\Documents\Binus\Semester4\Pattern Software Design\Lab\Ramen\Ramen\bin\roslyn\System.Xml.XPath.dll
+C:\Users\steve\Documents\Binus\Semester4\Pattern Software Design\Lab\Ramen\Ramen\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\steve\Documents\Binus\Semester4\Pattern Software Design\Lab\Ramen\Ramen\bin\roslyn\vbc.exe
+C:\Users\steve\Documents\Binus\Semester4\Pattern Software Design\Lab\Ramen\Ramen\bin\roslyn\vbc.exe.config
+C:\Users\steve\Documents\Binus\Semester4\Pattern Software Design\Lab\Ramen\Ramen\bin\roslyn\vbc.rsp
+C:\Users\steve\Documents\Binus\Semester4\Pattern Software Design\Lab\Ramen\Ramen\bin\roslyn\VBCSCompiler.exe
+C:\Users\steve\Documents\Binus\Semester4\Pattern Software Design\Lab\Ramen\Ramen\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\steve\Documents\Binus\Semester4\Pattern Software Design\Lab\Ramen\Ramen\bin\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\steve\Documents\Binus\Semester4\Pattern Software Design\Lab\Ramen\Ramen\bin\CrystalDecisions.ReportSource.dll
+C:\Users\steve\Documents\Binus\Semester4\Pattern Software Design\Lab\Ramen\Ramen\bin\CrystalDecisions.Shared.dll
+C:\Users\steve\Documents\Binus\Semester4\Pattern Software Design\Lab\Ramen\Ramen\bin\CrystalDecisions.Web.dll
+C:\Users\steve\Documents\Binus\Semester4\Pattern Software Design\Lab\Ramen\Ramen\bin\EntityFramework.dll
+C:\Users\steve\Documents\Binus\Semester4\Pattern Software Design\Lab\Ramen\Ramen\bin\EntityFramework.SqlServer.dll
+C:\Users\steve\Documents\Binus\Semester4\Pattern Software Design\Lab\Ramen\Ramen\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\steve\Documents\Binus\Semester4\Pattern Software Design\Lab\Ramen\Ramen\bin\Newtonsoft.Json.dll
+C:\Users\steve\Documents\Binus\Semester4\Pattern Software Design\Lab\Ramen\Ramen\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\steve\Documents\Binus\Semester4\Pattern Software Design\Lab\Ramen\Ramen\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\steve\Documents\Binus\Semester4\Pattern Software Design\Lab\Ramen\Ramen\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\steve\Documents\Binus\Semester4\Pattern Software Design\Lab\Ramen\Ramen\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\steve\Documents\Binus\Semester4\Pattern Software Design\Lab\Ramen\Ramen\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\steve\Documents\Binus\Semester4\Pattern Software Design\Lab\Ramen\Ramen\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\steve\Documents\Binus\Semester4\Pattern Software Design\Lab\Ramen\Ramen\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\steve\Documents\Binus\Semester4\Pattern Software Design\Lab\Ramen\Ramen\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\steve\Documents\Binus\Semester4\Pattern Software Design\Lab\Ramen\Ramen\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\steve\Documents\Binus\Semester4\Pattern Software Design\Lab\Ramen\Ramen\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\steve\Documents\Binus\Semester4\Pattern Software Design\Lab\Ramen\Ramen\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\steve\Documents\Binus\Semester4\Pattern Software Design\Lab\Ramen\Ramen\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\steve\Documents\Binus\Semester4\Pattern Software Design\Lab\Ramen\Ramen\bin\stdole.dll
+C:\Users\steve\Documents\Binus\Semester4\Pattern Software Design\Lab\Ramen\Ramen\bin\EntityFramework.xml
+C:\Users\steve\Documents\Binus\Semester4\Pattern Software Design\Lab\Ramen\Ramen\bin\EntityFramework.SqlServer.xml
+C:\Users\steve\Documents\Binus\Semester4\Pattern Software Design\Lab\Ramen\Ramen\bin\Newtonsoft.Json.xml
+C:\Users\steve\Documents\Binus\Semester4\Pattern Software Design\Lab\Ramen\Ramen\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\steve\Documents\Binus\Semester4\Pattern Software Design\Lab\Ramen\Ramen\obj\Debug\Ramen.csproj.AssemblyReference.cache
+C:\Users\steve\Documents\Binus\Semester4\Pattern Software Design\Lab\Ramen\Ramen\obj\Debug\Ramen.csproj.CoreCompileInputs.cache
+C:\Users\steve\Documents\Binus\Semester4\Pattern Software Design\Lab\Ramen\Ramen\obj\Debug\Ramen.csproj.CopyComplete
+C:\Users\steve\Documents\Binus\Semester4\Pattern Software Design\Lab\Ramen\Ramen\obj\Debug\Ramen.dll
+C:\Users\steve\Documents\Binus\Semester4\Pattern Software Design\Lab\Ramen\Ramen\obj\Debug\Ramen.pdb
+E:\Ramen\Ramen\Ramen\bin\Ramen.dll.config
+E:\Ramen\Ramen\Ramen\bin\Ramen.dll
+E:\Ramen\Ramen\Ramen\bin\Ramen.pdb
+E:\Ramen\Ramen\Ramen\bin\roslyn\csc.exe
+E:\Ramen\Ramen\Ramen\bin\roslyn\csc.exe.config
+E:\Ramen\Ramen\Ramen\bin\roslyn\csc.rsp
+E:\Ramen\Ramen\Ramen\bin\roslyn\csi.exe
+E:\Ramen\Ramen\Ramen\bin\roslyn\csi.exe.config
+E:\Ramen\Ramen\Ramen\bin\roslyn\csi.rsp
+E:\Ramen\Ramen\Ramen\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Ramen\Ramen\Ramen\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Ramen\Ramen\Ramen\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Ramen\Ramen\Ramen\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Ramen\Ramen\Ramen\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Ramen\Ramen\Ramen\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Ramen\Ramen\Ramen\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Ramen\Ramen\Ramen\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Ramen\Ramen\Ramen\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Ramen\Ramen\Ramen\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Ramen\Ramen\Ramen\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Ramen\Ramen\Ramen\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Ramen\Ramen\Ramen\bin\roslyn\System.AppContext.dll
+E:\Ramen\Ramen\Ramen\bin\roslyn\System.Collections.Immutable.dll
+E:\Ramen\Ramen\Ramen\bin\roslyn\System.Console.dll
+E:\Ramen\Ramen\Ramen\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\Ramen\Ramen\Ramen\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Ramen\Ramen\Ramen\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Ramen\Ramen\Ramen\bin\roslyn\System.Globalization.Calendars.dll
+E:\Ramen\Ramen\Ramen\bin\roslyn\System.IO.Compression.dll
+E:\Ramen\Ramen\Ramen\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\Ramen\Ramen\Ramen\bin\roslyn\System.IO.FileSystem.dll
+E:\Ramen\Ramen\Ramen\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Ramen\Ramen\Ramen\bin\roslyn\System.Net.Http.dll
+E:\Ramen\Ramen\Ramen\bin\roslyn\System.Net.Sockets.dll
+E:\Ramen\Ramen\Ramen\bin\roslyn\System.Reflection.Metadata.dll
+E:\Ramen\Ramen\Ramen\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Ramen\Ramen\Ramen\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Ramen\Ramen\Ramen\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Ramen\Ramen\Ramen\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Ramen\Ramen\Ramen\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Ramen\Ramen\Ramen\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Ramen\Ramen\Ramen\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Ramen\Ramen\Ramen\bin\roslyn\System.ValueTuple.dll
+E:\Ramen\Ramen\Ramen\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Ramen\Ramen\Ramen\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Ramen\Ramen\Ramen\bin\roslyn\System.Xml.XPath.dll
+E:\Ramen\Ramen\Ramen\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Ramen\Ramen\Ramen\bin\roslyn\vbc.exe
+E:\Ramen\Ramen\Ramen\bin\roslyn\vbc.exe.config
+E:\Ramen\Ramen\Ramen\bin\roslyn\vbc.rsp
+E:\Ramen\Ramen\Ramen\bin\roslyn\VBCSCompiler.exe
+E:\Ramen\Ramen\Ramen\bin\roslyn\VBCSCompiler.exe.config
+E:\Ramen\Ramen\Ramen\bin\EntityFramework.dll
+E:\Ramen\Ramen\Ramen\bin\EntityFramework.SqlServer.dll
+E:\Ramen\Ramen\Ramen\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Ramen\Ramen\Ramen\bin\Newtonsoft.Json.dll
+E:\Ramen\Ramen\Ramen\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\Ramen\Ramen\Ramen\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\Ramen\Ramen\Ramen\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\Ramen\Ramen\Ramen\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\Ramen\Ramen\Ramen\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\Ramen\Ramen\Ramen\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\Ramen\Ramen\Ramen\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\Ramen\Ramen\Ramen\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\Ramen\Ramen\Ramen\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\Ramen\Ramen\Ramen\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\Ramen\Ramen\Ramen\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\Ramen\Ramen\Ramen\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\Ramen\Ramen\Ramen\bin\stdole.dll
+E:\Ramen\Ramen\Ramen\bin\EntityFramework.xml
+E:\Ramen\Ramen\Ramen\bin\EntityFramework.SqlServer.xml
+E:\Ramen\Ramen\Ramen\bin\Newtonsoft.Json.xml
+E:\Ramen\Ramen\Ramen\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Ramen\Ramen\Ramen\obj\Debug\Ramen.csproj.AssemblyReference.cache
+E:\Ramen\Ramen\Ramen\obj\Debug\Ramen.csproj.CoreCompileInputs.cache
+E:\Ramen\Ramen\Ramen\obj\Debug\Ramen.csproj.CopyComplete
+E:\Ramen\Ramen\Ramen\obj\Debug\Ramen.dll
+E:\Ramen\Ramen\Ramen\obj\Debug\Ramen.pdb
